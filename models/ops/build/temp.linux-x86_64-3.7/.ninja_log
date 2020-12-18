@@ -1,0 +1,4 @@
+# ninja log v5
+1	5541	1608022031596214599	/mnt/nas/Deformable-DETR/models/ops/build/temp.linux-x86_64-3.7/mnt/nas/Deformable-DETR/models/ops/src/cpu/ms_deform_attn_cpu.o	9b20b5a96443c1de
+1	17495	1608022043543808366	/mnt/nas/Deformable-DETR/models/ops/build/temp.linux-x86_64-3.7/mnt/nas/Deformable-DETR/models/ops/src/cuda/ms_deform_attn_cuda.o	a6eecf9b9c80366b
+1	18899	1608022044936632671	/mnt/nas/Deformable-DETR/models/ops/build/temp.linux-x86_64-3.7/mnt/nas/Deformable-DETR/models/ops/src/vision.o	10a7e94c86b61897
